@@ -12,7 +12,7 @@ from discord.utils import get
 
 
 prefix = "."
-token = "MTE0OTgyODEyNjc2MzkwOTI4MA.GQBvv0.qrOXDcbqc3akyy7of82Fnp-4Sk4mxqXaYqmUsU"
+token = "MTE0OTgyODEyNjc2MzkwOTI4MA.GYHAyU.5LcqbjpQng6ycgXdw6f1M2VdXlDVXYYU2DFcqw"
 Lapsus = commands.Bot(description='Lapsus', command_prefix='.', self_bot=True)
 
 

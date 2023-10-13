@@ -4,10 +4,8 @@ import time
 import subprocess
 import requests
 import string
-import random
 import aiohttp
 import io
-import pyscreenshot
 import json
 from discord.ext import commands
 from discord.utils import get
